@@ -1,5 +1,6 @@
-## rc-form examples
+## React form validation examples and issuesbased on rc-form npm package
 
+[rc-form repository](https://github.com/react-component/form)
 [Try online !](https://rc-form-examples.now.sh)
 
 ### Setup
